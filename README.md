@@ -6,3 +6,4 @@ This is a command-line application written in C++ that allows users to hide secr
 * Retrieve a hidden message from an image
 * Supports common image file formats, including PNG, JPEG, and BMP
 * Encrypts the secret message for added security
+
