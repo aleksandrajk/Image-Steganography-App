@@ -1,7 +1,4 @@
-
 //EXTERNAL LIBRARY 
-//this is the external library I am using just to write/load images.
-
 
 //License information placed at the end of the file for license information.
 
