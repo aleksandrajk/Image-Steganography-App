@@ -1,6 +1,5 @@
-
 //EXTERNAL LIBRARY 
-//this is the external library I am using just to write/load images.
+
 
 #ifndef STBI_INCLUDE_STB_IMAGE_H
 #define STBI_INCLUDE_STB_IMAGE_H
